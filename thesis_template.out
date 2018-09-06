@@ -1,0 +1,11 @@
+\BOOKMARK [0][-]{chapter*.2}{Povzetek}{}% 1
+\BOOKMARK [0][-]{section*.4}{Abstract}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Pregled podrocja}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Osnovni generativni modeli}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Staranje obrazov}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Implementacija}{}% 6
+\BOOKMARK [1][-]{section.2.1}{Pogojna generativna nasprotni\235ka mre\236a}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{Pogojni Wasserstein GAN}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{BiCOGAN}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.4}{Variacijski autoenkoder}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.5}{Autoenkoder}{chapter.2}% 11

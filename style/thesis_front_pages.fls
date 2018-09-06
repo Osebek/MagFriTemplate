@@ -1,0 +1,9 @@
+PWD /Users/nejcvesel/Downloads/thesis_template_slo_eng (1)/style
+INPUT /usr/local/texlive/2015/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT thesis_front_pages.tex
+OUTPUT thesis_front_pages.log
+INPUT thesis_front_pages.aux
+INPUT thesis_front_pages.aux
+OUTPUT thesis_front_pages.aux

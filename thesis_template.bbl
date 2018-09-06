@@ -1,0 +1,126 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{gangoodfellow}
+I.~Goodfellow, J.~Pouget-Abadie, M.~Mirza, B.~Xu, D.~Warde-Farley, S.~Ozair,
+  A.~Courville, Y.~Bengio,
+  \href{http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf}{Generative
+  adversarial nets}, in: Z.~Ghahramani, M.~Welling, C.~Cortes, N.~D. Lawrence,
+  K.~Q. Weinberger (Eds.), Advances in Neural Information Processing Systems
+  27, Curran Associates, Inc., 2014, pp. 2672--2680.
+\newline\urlprefix\url{http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf}
+
+\bibitem{kingma2013auto}
+D.~P. Kingma, M.~Welling, Auto-encoding variational bayes, arXiv preprint
+  arXiv:1312.6114.
+
+\bibitem{adverserialautoencoders}
+A.~Makhzani, J.~Shlens, N.~Jaitly, I.~Goodfellow,
+  \href{http://arxiv.org/abs/1511.05644}{Adversarial autoencoders}, in:
+  International Conference on Learning Representations, 2016.
+\newline\urlprefix\url{http://arxiv.org/abs/1511.05644}
+
+\bibitem{fu2010age}
+Y.~Fu, G.~Guo, T.~S. Huang, Age synthesis and estimation via faces: A survey,
+  IEEE transactions on pattern analysis and machine intelligence 32~(11) (2010)
+  1955--1976.
+
+\bibitem{cootes1995active}
+T.~F. Cootes, C.~J. Taylor, D.~H. Cooper, J.~Graham, Active shape models-their
+  training and application, Computer vision and image understanding 61~(1)
+  (1995) 38--59.
+
+\bibitem{liu2004image}
+Z.~Liu, Z.~Zhang, Y.~Shan, Image-based surface detail transfer, IEEE Computer
+  Graphics and Applications 24~(3) (2004) 30--35.
+
+\bibitem{fu2006m}
+Y.~Fu, N.~Zheng, M-face: An appearance-based photorealistic model for multiple
+  facial attributes rendering, IEEE Transactions on Circuits and Systems for
+  Video technology 16~(7) (2006) 830--842.
+
+\bibitem{cootes2001active}
+T.~F. Cootes, G.~J. Edwards, C.~J. Taylor, Active appearance models, IEEE
+  Transactions on Pattern Analysis \& Machine Intelligence~(6) (2001) 681--685.
+
+\bibitem{antipov2017face}
+G.~Antipov, M.~Baccouche, J.-L. Dugelay, Face aging with conditional generative
+  adversarial networks, in: Image Processing (ICIP), 2017 IEEE International
+  Conference on, IEEE, 2017, pp. 2089--2093.
+
+\bibitem{radford2015unsupervised}
+A.~Radford, L.~Metz, S.~Chintala, Unsupervised representation learning with
+  deep convolutional generative adversarial networks, arXiv preprint
+  arXiv:1511.06434.
+
+\bibitem{ricanek2006morph}
+K.~Ricanek, T.~Tesafaye, Morph: A longitudinal image database of normal adult
+  age-progression, in: Automatic Face and Gesture Recognition, 2006. FGR 2006.
+  7th International Conference on, IEEE, 2006, pp. 341--345.
+
+\bibitem{mirza2014conditional}
+M.~Mirza, S.~Osindero, Conditional generative adversarial nets, arXiv preprint
+  arXiv:1411.1784.
+
+\bibitem{arjovsky2017wasserstein}
+M.~Arjovsky, S.~Chintala, L.~Bottou, Wasserstein generative adversarial
+  networks, in: International Conference on Machine Learning, 2017, pp.
+  214--223.
+
+\bibitem{srivastava2014dropout}
+N.~Srivastava, G.~Hinton, A.~Krizhevsky, I.~Sutskever, R.~Salakhutdinov,
+  Dropout: a simple way to prevent neural networks from overfitting, The
+  Journal of Machine Learning Research 15~(1) (2014) 1929--1958.
+
+\bibitem{jaiswal2017bidirectional}
+A.~Jaiswal, W.~AbdAlmageed, Y.~Wu, P.~Natarajan, Bidirectional conditional
+  generative adversarial networks, arXiv preprint arXiv:1711.07461.
+
+\bibitem{donahue2016adversarial}
+J.~Donahue, P.~Kr{\"a}henb{\"u}hl, T.~Darrell, Adversarial feature learning,
+  arXiv preprint arXiv:1605.09782.
+
+\bibitem{iandola2016squeezenet}
+F.~N. Iandola, S.~Han, M.~W. Moskewicz, K.~Ashraf, W.~J. Dally, K.~Keutzer,
+  Squeezenet: Alexnet-level accuracy with 50x fewer parameters and< 0.5 mb
+  model size, arXiv preprint arXiv:1602.07360.
+
+\bibitem{parkhi2015deep}
+O.~M. Parkhi, A.~Vedaldi, A.~Zisserman, et~al., Deep face recognition., in:
+  BMVC, Vol.~1, 2015, p.~6.
+
+\bibitem{szegedy2016rethinking}
+C.~Szegedy, V.~Vanhoucke, S.~Ioffe, J.~Shlens, Z.~Wojna, Rethinking the
+  inception architecture for computer vision, in: Proceedings of the IEEE
+  conference on computer vision and pattern recognition, 2016, pp. 2818--2826.
+
+\bibitem{simonyan2014very}
+K.~Simonyan, A.~Zisserman, Very deep convolutional networks for large-scale
+  image recognition, arXiv preprint arXiv:1409.1556.
+
+\bibitem{grm2017strengths}
+K.~Grm, V.~{\v{S}}truc, A.~Artiges, M.~Caron, H.~K. Ekenel, Strengths and
+  weaknesses of deep learning models for face recognition against image
+  degradations, IET Biometrics 7~(1) (2017) 81--89.
+
+\bibitem{Rothe-IJCV-2016}
+R.~Rothe, R.~Timofte, L.~V. Gool, Deep expectation of real and apparent age
+  from a single image without facial landmarks, International Journal of
+  Computer Vision (IJCV).
+
+\bibitem{hou2017deep}
+X.~Hou, L.~Shen, K.~Sun, G.~Qiu, Deep feature consistent variational
+  autoencoder, in: 2017 IEEE Winter Conference on Applications of Computer
+  Vision (WACV), IEEE, 2017, pp. 1133--1141.
+
+\bibitem{russakovsky2015imagenet}
+O.~Russakovsky, J.~Deng, H.~Su, J.~Krause, S.~Satheesh, S.~Ma, Z.~Huang,
+  A.~Karpathy, A.~Khosla, M.~Bernstein, et~al., Imagenet large scale visual
+  recognition challenge, International Journal of Computer Vision 115~(3)
+  (2015) 211--252.
+
+\end{thebibliography}
